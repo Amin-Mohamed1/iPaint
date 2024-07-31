@@ -28,7 +28,7 @@ A web-based drawing application inspired by Microsoft Paint, built with Vue.js a
 - [Spring Boot](https://spring.io/projects/spring-boot) - Java framework for building production-ready applications.
 
 
-### Backend
+### Design Patterns
 - **Singleton Pattern**: Ensure a class has only one instance and provide a global point of access to it, such as for configuration settings.
 - **Prototype Pattern**: Create new objects by copying an existing object, useful for creating tool instances with similar properties.
 - **Factory Pattern**: Provide an interface for creating objects in a superclass but allow subclasses to alter the type of objects that will be created.
